@@ -3,8 +3,8 @@ templateKey: site-data
 published: true
 name: Joseph Michaletz
 profileImage:
-  src: ""
-  alt: Client's headshot
+  src: /img/joseph-michaletz.jpg
+  alt: Joseph Michaletz's headshot
 siteUrl: https://joseph-michaletz.com
 socialLinks:
   twitter:
