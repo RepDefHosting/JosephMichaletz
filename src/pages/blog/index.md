@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: As the CEO of Discipline Advisors, a financial services firm in
+  Mankato, Minnesota, Joseph Gerard Michaletz leverages a logical and
+  deliberative philosophy to maximize his clients’ returns on investment.
 published: true
 schemaType: WebPage
 header: Blog
