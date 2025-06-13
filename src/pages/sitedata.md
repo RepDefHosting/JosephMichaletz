@@ -1,24 +1,22 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Joseph Michaletz
 profileImage:
   src: ""
   alt: Client's headshot
-siteUrl: https://url.com
+siteUrl: https://joseph-michaletz.com
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/joseph-michaletz-629537b6
     label: Visit
     show: true
   pinterest:
@@ -35,6 +33,8 @@ themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
+location: Mankato, Minnesota, USA
 fallbackImage: /img/pic-executive-main-banner-01.webp
+jobTitle: Wealth Management Advisor
 siteAnalytics: null
 ---
